@@ -35,5 +35,13 @@ public class JavaVariables{
         int birthMonth = 8;
         int favoriteNumber = 74; //spongebob
         String s = "Kelsey Freeman";
+        System.out.println(s);
+        System.out.println(favoriteNumber);
+        System.out.println(gasPrice);
+        System.out.println(shoeSize);
+        System.out.println(birthMonth);
+        System.out.println(favoriteNumber);
+        System.out.println(isItRaining);
+        System.out.println(kidsInFamily);
     }
 }
