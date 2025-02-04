@@ -1,7 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class JavaVariables{
-    public static void main(String[] args) {
+    public static <string> void main(String[] args) {
         int intOperandA = 1;
         int intOperandB = 2;
         int intOperandC = 3;
@@ -28,6 +28,12 @@ public class JavaVariables{
         System.out.println("The difference of doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleDifference);
         System.out.println("The quotient of doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleQuotient);
         System.out.println("The modulo of doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleModulo);
-
+        double kidsInFamily = 2;
+        boolean isItRaining = false;
+        double gasPrice = 2.71;
+        int shoeSize = 9;
+        int birthMonth = 8;
+        int favoriteNumber = 74; //spongebob
+        String s = "Kelsey Freeman";
     }
 }
